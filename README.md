@@ -1,18 +1,27 @@
 # Mohamed-Sami-KOUDIR-Stats-201
 
-# Machine Learning Workstation Setup
+# Machine Learning Workstation Setup and Exploratory Data Analysis (EDA)
 
-This repository provides instructions for setting up a machine learning workstation for data analysis and exploration. The setup works for both cloud and local environments.
+This repository provides a comprehensive guide to setting up a machine learning workstation and performing exploratory data analysis (EDA) using a dataset focused on human locomotion over compliant terrains.
 
-## Prerequisites
+---
 
-- Python 3.8+
-- Conda (for creating isolated environments)
-- Jupyter Notebook (for interactive analysis)
-- Required packages: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, etc.
+## Project Overview
 
-## Local Setup Instructions
+This project demonstrates:
+1. Setting up a local or cloud-based machine learning environment.
+2. Conducting EDA on human locomotion data to derive meaningful insights.
+3. Creating a reproducible workflow for data analysis.
 
-1. Clone the repository:
+This project provides a systematic approach to set up a machine learning workstation and explore scientific communication using a dataset focused on human locomotion over compliant terrains.
+
+---
+
+## System Configuration Instructions
+
+### Local Environment Setup
+
+Clone this repository:
    ```bash
-   git clone https://github.com/yourorganization/ml-workstation-setup.git
+   git clone https://github.com/<organization>/<repository>.git
+   cd <repository>
